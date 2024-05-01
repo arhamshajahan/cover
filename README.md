@@ -28,9 +28,7 @@ Insert the images in their appropriate places.
 
 ### Step 8:
 Publish the website in the LocalHost.
-
 ## PROGRAM:
-book.html
 ```
   <!DOCTYPE html>
 <html lang="en">
